@@ -1,0 +1,8 @@
+/home/ali/Desktop/producer_consumer/build/CMakeFiles/producer_consumer.dir
+/home/ali/Desktop/producer_consumer/build/CMakeFiles/edit_cache.dir
+/home/ali/Desktop/producer_consumer/build/CMakeFiles/rebuild_cache.dir
+/home/ali/Desktop/producer_consumer/build/CMakeFiles/list_install_components.dir
+/home/ali/Desktop/producer_consumer/build/CMakeFiles/install.dir
+/home/ali/Desktop/producer_consumer/build/CMakeFiles/install/local.dir
+/home/ali/Desktop/producer_consumer/build/CMakeFiles/install/strip.dir
+/home/ali/Desktop/producer_consumer/build/CMakeFiles/producer_consumer_autogen.dir
